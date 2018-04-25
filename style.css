@@ -18,6 +18,9 @@ body {
 .nav-link {
   font-size: 1.1em !important;
 }
+.carousel-inner{
+  height: 47em;
+}
 
 .carousel-inner img {
   width: 100%;
